@@ -1,11 +1,13 @@
 package tests;
 
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
 public class OrderPageTest {
+
+@Test
 public void orderTest() {
 	System.out.println(true);
-	String orderId="123";
-	System.out.println(orderId);
-	
-	
+	Assert.assertEquals(true,true);
 }
 }
