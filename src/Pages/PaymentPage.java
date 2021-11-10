@@ -3,7 +3,12 @@ package Pages;
 public class PaymentPage {
  public void payment() {
 	 
-	 String nameD2="Dev2";
-	 System.out.println(nameD2);
+	 String nameD1="Dev1";
+	 System.out.println(nameD1);
+	 if(true) {
+		 System.out.println("payment is done");
+	 
+	 }
+
  }
 }
