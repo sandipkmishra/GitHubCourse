@@ -9,7 +9,7 @@ public class ClassicPage {
       System.out.println(m);
       System.out.println("Hello dev1");
 
-       int sal=12;
+       int sal=15;
       System.out.println(sal);
 
       int age = 25;
