@@ -8,7 +8,8 @@ public class ClassicPage {
        int m = n+n1;
       System.out.println(m);
       System.out.println("Hello dev1");
-
+       int sal=12;
+      System.out.println(sal);
 	}
 
 }
